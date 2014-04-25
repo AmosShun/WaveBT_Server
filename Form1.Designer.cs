@@ -58,7 +58,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 87F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 52F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(702, 590);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(835, 558);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // zedGraphControl1
@@ -74,14 +74,14 @@
             this.zedGraphControl1.ScrollMinX = 0D;
             this.zedGraphControl1.ScrollMinY = 0D;
             this.zedGraphControl1.ScrollMinY2 = 0D;
-            this.zedGraphControl1.Size = new System.Drawing.Size(696, 219);
+            this.zedGraphControl1.Size = new System.Drawing.Size(829, 203);
             this.zedGraphControl1.TabIndex = 0;
             // 
             // zedGraphControl2
             // 
             this.tableLayoutPanel1.SetColumnSpan(this.zedGraphControl2, 2);
             this.zedGraphControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.zedGraphControl2.Location = new System.Drawing.Point(3, 228);
+            this.zedGraphControl2.Location = new System.Drawing.Point(3, 212);
             this.zedGraphControl2.Name = "zedGraphControl2";
             this.zedGraphControl2.ScrollGrace = 0D;
             this.zedGraphControl2.ScrollMaxX = 0D;
@@ -90,7 +90,7 @@
             this.zedGraphControl2.ScrollMinX = 0D;
             this.zedGraphControl2.ScrollMinY = 0D;
             this.zedGraphControl2.ScrollMinY2 = 0D;
-            this.zedGraphControl2.Size = new System.Drawing.Size(696, 219);
+            this.zedGraphControl2.Size = new System.Drawing.Size(829, 203);
             this.zedGraphControl2.TabIndex = 1;
             // 
             // flowLayoutPanel1
@@ -102,14 +102,14 @@
             this.flowLayoutPanel1.Controls.Add(this.button1);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.FlowDirection = System.Windows.Forms.FlowDirection.RightToLeft;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(3, 540);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(3, 508);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(696, 47);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(829, 47);
             this.flowLayoutPanel1.TabIndex = 2;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(618, 3);
+            this.button4.Location = new System.Drawing.Point(751, 3);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 3;
@@ -118,7 +118,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(537, 3);
+            this.button2.Location = new System.Drawing.Point(670, 3);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 1;
@@ -127,7 +127,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(456, 3);
+            this.button3.Location = new System.Drawing.Point(589, 3);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 2;
@@ -136,7 +136,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(375, 3);
+            this.button1.Location = new System.Drawing.Point(508, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -153,7 +153,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(702, 590);
+            this.ClientSize = new System.Drawing.Size(835, 558);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
             this.Text = "Form1";
